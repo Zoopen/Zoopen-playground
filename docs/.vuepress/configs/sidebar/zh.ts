@@ -21,7 +21,39 @@ export const zh: SidebarConfig = {
         '/font-end/HTML/03.md',
         '/font-end/HTML/04.md',
         '/font-end/HTML/05.md',
-        '/font-end/HTML/06.md'
+        '/font-end/HTML/06.md',
+        '/font-end/HTML/07.md'
+      ]
+    },
+    {
+      text: '八股文：CSS',
+      collapsible: true,
+      children: [
+        '/font-end/CSS/01.md',
+        '/font-end/CSS/02.md',
+        '/font-end/CSS/03.md',
+        '/font-end/CSS/04.md',
+        '/font-end/CSS/05.md',
+        '/font-end/CSS/06.md',
+        '/font-end/CSS/07.md',
+        '/font-end/CSS/08.md',
+        '/font-end/CSS/09.md',
+        '/font-end/CSS/10.md',
+        '/font-end/CSS/11.md',
+        '/font-end/CSS/12.md',
+        '/font-end/CSS/13.md'
+      ]
+    },
+    {
+      text: '八股文：JavaScript',
+      collapsible: true,
+      children: [
+        '/font-end/JavaScript/01.md',
+        '/font-end/JavaScript/02.md',
+        '/font-end/JavaScript/03.md',
+        '/font-end/JavaScript/04.md',
+        '/font-end/JavaScript/05.md',
+        '/font-end/JavaScript/06.md'
       ]
     }
   ],
